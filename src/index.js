@@ -1,2 +1,4 @@
-import "./styles.css";
-console.log("hello world!");
+// import "./styles.css";
+import "./main.scss";
+
+import moduleName from './preact.jsx'

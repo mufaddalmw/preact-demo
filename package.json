@@ -31,6 +31,7 @@
     "webpack-dev-server": "^4.11.1"
   },
   "dependencies": {
-    "preact": "^10.11.3"
+    "preact": "^10.11.3",
+    "preact-custom-element": "^4.2.1"
   }
 }
